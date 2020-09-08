@@ -4,7 +4,7 @@ Website
 
 ## Introduction
 
-Description. Adding a line for REBASING exmaple.
+Description. Updating changes for stash eg
 
 ## Purpose
 
